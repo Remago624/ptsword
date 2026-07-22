@@ -4,7 +4,6 @@
 
 [node name="player" type="CharacterBody2D" unique_id=569467709]
 script = ExtResource("1_3vyb7")
-speed = null
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=10026918]
 
