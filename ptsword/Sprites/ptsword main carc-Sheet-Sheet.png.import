@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cngd1mgb5q58q"
-path="res://.godot/imported/KawalIdle.png-6a272c53a84500e223a6328af77c6f79.ctex"
+uid="uid://ddpn7ijdr7c38"
+path="res://.godot/imported/ptsword main carc-Sheet-Sheet.png-6a8eb82fe58af393cbcf9ad882b6bdc2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/KawalIdle.png"
-dest_files=["res://.godot/imported/KawalIdle.png-6a272c53a84500e223a6328af77c6f79.ctex"]
+source_file="res://Sprites/ptsword main carc-Sheet-Sheet.png"
+dest_files=["res://.godot/imported/ptsword main carc-Sheet-Sheet.png-6a8eb82fe58af393cbcf9ad882b6bdc2.ctex"]
 
 [params]
 

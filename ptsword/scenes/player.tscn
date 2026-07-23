@@ -4,7 +4,7 @@
 [ext_resource type="Texture2D" uid="uid://dt8bsgfc37wr6" path="res://Sprites/Knight_player/Fall_KG_1.png" id="2_tuyoq"]
 [ext_resource type="Texture2D" uid="uid://bxl3vju705qs3" path="res://Sprites/Knight_player/Jump_KG_1.png" id="3_dqkch"]
 [ext_resource type="Texture2D" uid="uid://c0073cb00hayv" path="res://Sprites/Knight_player/Walking_KG_2.png" id="3_qhqgy"]
-[ext_resource type="Texture2D" uid="uid://dyv1lqrjdcoap" path="res://Sprites/KawalIdle.png" id="3_tuyoq"]
+[ext_resource type="Texture2D" uid="uid://dyv1lqrjdcoap" path="res://Sprites/ptsword main carc-Sheet.png" id="3_tuyoq"]
 [ext_resource type="Texture2D" uid="uid://dxexw8tu5frig" path="res://Sprites/Knight_player/Shield_Bash_KG.png" id="6_fjrip"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_31cv2"]
@@ -339,4 +339,4 @@ shape = SubResource("RectangleShape2D_ur7pv")
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=605104095]
 position = Vector2(578, 325)
-zoom = Vector2(2.545, 2.545)
+zoom = Vector2(6.805, 6.805)
