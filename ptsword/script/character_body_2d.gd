@@ -46,15 +46,15 @@ func handle_horizontal_movement(delta: float) -> void:
 		velocity.x = move_toward(velocity.x, 0, speed * delta * 5)
 func update_animation() -> void:
 	var direction := Input.get_axis("move_left","move_right")
-	#if animated_sprite.animation == "swing" and animated_sprite.is_playing():
-		#return
+	if animated_sprite.animation == "swing" and animated_sprite.is_playing():
+		return
 	if !is_on_floor():
 		if velocity.y < 0:
 			set_animation(JUMP)
 		else:
 			set_animation(FALL)
 	elif direction:
-		animated_sprite.play(state)
+		set_animation(state)
 	else:
 		set_animation(IDLE)
 	if Input.is_action_just_pressed("swing"):
