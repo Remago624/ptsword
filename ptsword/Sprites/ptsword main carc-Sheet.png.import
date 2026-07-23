@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dyv1lqrjdcoap"
-path="res://.godot/imported/ptsword main carc-Sheet.png-1fad9adc7c309f2223914124391287de.ctex"
+path="res://.godot/imported/ptsword main carc-Sheet.png-5af66d9b96f0ee896312d624068d9579.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ptsword main carc-Sheet.png"
-dest_files=["res://.godot/imported/ptsword main carc-Sheet.png-1fad9adc7c309f2223914124391287de.ctex"]
+source_file="res://Sprites/ptsword main carc-Sheet.png"
+dest_files=["res://.godot/imported/ptsword main carc-Sheet.png-5af66d9b96f0ee896312d624068d9579.ctex"]
 
 [params]
 
